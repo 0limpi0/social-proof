@@ -57,3 +57,22 @@ p {
 .description_text {
   color: var(--dark-grayish-magenta);
 }
+
+/* header review */
+.header-review {
+}
+
+.card-review {
+  background-color: var(--light-grayish-magenta);
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 0.3rem;
+}
+
+.review-stars {
+  margin-bottom: 0.5rem;
+}
+
+.review-text {
+  color: var(--very-dark-magenta);
+}
