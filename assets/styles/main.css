@@ -76,3 +76,45 @@ p {
 .review-text {
   color: var(--very-dark-magenta);
 }
+
+/* testimonials */
+.testimonials {
+}
+
+.testimonial-card {
+  background-color: var(--very-dark-magenta);
+  margin-bottom: 1rem;
+  padding: 2rem;
+  border-radius: 0.6rem;
+}
+
+.testimonial_perfil {
+  display: flex;
+  align-items: center;
+}
+
+.testimonial-image-section {
+}
+
+.testimonial-image {
+  width: 60%;
+  border-radius: 50%;
+}
+
+.testimonial-info {
+}
+
+.testimonial-name {
+  font-size: 0.8rem;
+  color: var(--white);
+}
+
+.testimonial-position {
+  font-size: 0.8rem;
+  color: var(--soft-pink);
+}
+
+.testimonial-text {
+  font-size: 0.8rem;
+  color: var(--white);
+}
