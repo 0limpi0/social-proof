@@ -16,4 +16,44 @@
 body {
   font-family: "Spartan", sans-serif;
   font-size: 15px;
+  font-weight: 500;
+}
+
+h1,
+h3 {
+  font-weight: 700;
+}
+
+h4 {
+  font-weight: 400;
+}
+
+p {
+  line-height: 1.5;
+}
+
+.container {
+  padding: 2rem 1.5rem;
+}
+
+/* header */
+.header {
+  text-align: center;
+  margin-bottom: 2rem;
+  padding: 1rem 0;
+}
+
+/* header description section*/
+.header-description-section {
+  margin-bottom: 2rem;
+}
+
+.description_title {
+  color: var(--very-dark-magenta);
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+}
+
+.description_text {
+  color: var(--dark-grayish-magenta);
 }
