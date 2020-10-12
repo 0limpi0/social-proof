@@ -91,6 +91,7 @@ p {
 .testimonial_perfil {
   display: flex;
   align-items: center;
+  margin-bottom: 1rem;
 }
 
 .testimonial-image-section {
@@ -107,6 +108,7 @@ p {
 .testimonial-name {
   font-size: 0.8rem;
   color: var(--white);
+  margin-bottom: 0.5rem;
 }
 
 .testimonial-position {
