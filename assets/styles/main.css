@@ -201,7 +201,5 @@ p {
     margin-bottom: 0;
   }
 
-  .testimonial-card:nth-child(1) {
-    align-self: center;
-  }
+  
 }
